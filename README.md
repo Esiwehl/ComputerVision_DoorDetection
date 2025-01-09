@@ -51,7 +51,7 @@ Employs a YOLOv11x model trained on a curated dataset. Transfer learning is appl
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/DoorDetection.git
+   git clone https://github.com/Esiwehl/DoorDetection.git
    cd DoorDetection
     ```
 2. Install the required packages:
